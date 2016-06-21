@@ -1,0 +1,29 @@
+
+label {
+    font-weight:bold;
+    padding: 4px;
+    margin-bottome:8px;
+}
+
+.lamp {
+    width: 200px;
+    height: 40px;
+    margin: 12px;
+    padding: 12px;
+}
+
+path {
+    fill: none;
+    stroke: blue;
+    vector-effect: non-scaling-stroke;
+}
+
+line {
+    stroke: black;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+circle {
+    fill: none;
+}
